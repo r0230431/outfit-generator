@@ -1,0 +1,15 @@
+export enum ShoeType {
+  SNEAKERS = 'Sneakers',
+  BOOTS = 'Boots',
+  ANKLEBOOTS = 'Ankle Boots',
+  SLIPPERS = 'Slippers',
+  SANDALS = 'Sandals',
+  PUMPS = 'Pumps',
+  FLATS = 'Flats',
+  HEELS = 'Heels',
+  ESPADRILLES = 'Espadrilles',
+  LOAFERS = 'Loafers',
+  MULES = 'Mules',
+  BALLERINAS = 'Ballerinas',
+  SLIPONS = 'Slip-ons',
+}

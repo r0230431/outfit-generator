@@ -1,0 +1,17 @@
+export enum AccessoryType {
+  EARRINGS = 'Earrings',
+  NECKLACE = 'Necklace',
+  BRACELET = 'Bracelet',
+  RING = 'Ring',
+  HAT = 'Hat',
+  CAP = 'Cap',
+  BERET = 'Berat',
+  BEANIE = 'Beanie',
+  SCARF = 'Scarf',
+  GLOVES = 'Gloves',
+  BELT = 'Belt',
+  GLASSES = 'Glasses',
+  SUNGLASSES = 'Sunglasses',
+  WATCH = 'Watch',
+  HAIRACCESSORY = 'Hair accessory',
+}
